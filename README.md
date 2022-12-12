@@ -193,7 +193,7 @@ Try running a few more expressions in IRB:
 ```console
 > first_number = 7
  => 7
-> first_number
+>first_number = 7
  => 7
 > puts first_number
 7
